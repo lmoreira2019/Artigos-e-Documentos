@@ -1,4 +1,4 @@
 #  Artigos-e-Documentos
 
 
-**Manuais e documentos sobre diversos softwares**
+**Manuais e documentos sobre diversos temas**
